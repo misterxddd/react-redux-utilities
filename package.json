@@ -1,0 +1,26 @@
+{
+  "name": "react-redux-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterxddd/react-redux-utilities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterxddd/react-redux-utilities/issues"
+  },
+  "homepage": "https://github.com/misterxddd/react-redux-utilities#readme",
+  "dependencies": {
+    "antd": "^3.26.11",
+    "eslint": "^6.8.0",
+    "lodash": "^4.17.15",
+    "react": "^16.12.0",
+    "redux": "^4.0.5"
+  }
+}
